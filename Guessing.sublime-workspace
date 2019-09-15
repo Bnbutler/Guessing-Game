@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"t",
+				"top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"git version",
+			"git",
+			"git --version",
+			"ls",
+			"cd",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Brendan/Documents/Python/Python projects/Guessing"
+	],
+	"file_history":
+	[
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Brendan/Documents/test/.script.py",
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Brendan/Documents/Python/Ex_Files_Python_EssT/Exercise Files/Chap01/hello.py",
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 3/Packages/User/python37.sublime-build",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_16/challenge1.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_13/1-13.css",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_13/1-13-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_14/1-14-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_03/1-3-begin 2.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_12/1-12-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_04/1-4-begin 2.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_05/1-5-begin 2.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_06/1-6-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_07/1-7-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_08/1-8-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_10/1-10-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_03/1-3-sample.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_11/1-11-begin.html",
+		"/C/Users/Brendan/Documents/HTML Marketers/Ex_Files_Practical_HTML_Marketing_Projects/Exercise Files/01_02/1-2.html",
+		"/C/Users/Brendan/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Guessing.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
